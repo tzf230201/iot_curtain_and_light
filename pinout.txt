@@ -1,0 +1,19 @@
+Pinout wemos:
+ ADC0 (A0) = LDR
+
+GPIO4 (D2) = SDA RTC DS3231
+GPIO5 (D1) = SCL RTC DS3231
+
+GPIO14 (D3) = B led
+GPIO12 (D4) = R led
+GPIO13 (D8) = G led
+
+
+GPIO0 (D6) = Relay Lampu
+GPIO2 (D7) = Relay IN1 motor -> tersa mbung ke 2 trigger relay
+GPIO15 (D5) = Relay IN2 motor -> tersambung ke 2 trigger relay
+
+GPIO1 (TX) = Limit switch 1
+GPIO3 (RX) = Limit switch 2
+
+D0 = Input button
