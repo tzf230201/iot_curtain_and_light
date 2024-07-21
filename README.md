@@ -14,20 +14,20 @@ This project demonstrates an IoT device that controls a curtain motor and an RGB
 
 ## Hardware Specification
 
-![Diagram](Picture/diagram.png)
+![Diagram](picture/diagram.png)
 *Figure 1: Electronics Diagram*
 
 ## Images
 
-![Design](Picture/design.png)
+![Design](picture/design.png)
 
 *Figure 2: 3D Looks Board Design*
 
-![Real](Picture/real.png)
+![Real](picture/real.png)
 
 *Figure 3: Real Board*
 
-![Usage](Picture/usage.png)
+![Usage](picture/usage.png)
 
 *Figure 4: Usage*
 
