@@ -6,7 +6,7 @@
 #define WIFI_SSID "pa_afis"//"circle"
 #define WIFI_PASSWORD "qwerty123"//"Gr34tw4ll"
 // Telegram BOT Token (Get from Botfather)
-#define BOT_TOKEN "6080823101:AAEnxDQWNw5j_ziTF9s0-GOHD19MowcZ4E8"
+#define BOT_TOKEN "6080xxxxxx:AAEnxDxxxxxx_ziTF9s0-GOHD19Moxxxxxx"
 
 const unsigned long BOT_MTBS = 500; // mean time between scan messages
 
