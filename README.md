@@ -44,4 +44,6 @@ This project demonstrates an IoT device that controls a curtain motor, main ligh
 3. **Time-Based Mode**: Set schedules for automated curtain and light management.  
 4. **Telegram Control**: Send specific commands through Telegram to remotely operate the curtain, room lighting, and ambient light.  
 
-All control methods can be configured through the Telegram bot by sending the `/start` command. 
+All control methods can be configured through the Telegram bot by sending the `/start` command.
+
+Ask me anything : teukuzikrifatahillah@gmail.com
