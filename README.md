@@ -15,22 +15,21 @@ This project demonstrates an IoT device that controls a curtain motor, main ligh
 
 
 
-## Hardware Specifications  
-
-![Diagram](picture/diagram.png)  
-*Figure 1: Electronics Diagram*  
-
-
-
 ## Device Images  
+
+- **Real Hardware**  
+![Real](picture/real.png)  
+*Figure 1: Physical Board*
 
 - **Board Design**  
 ![Design](picture/design.png)  
 *Figure 2: 3D Board Design*  
 
-- **Real Hardware**  
-![Real](picture/real.png)  
-*Figure 3: Physical Board*  
+
+## Hardware Specifications  
+
+![Diagram](picture/diagram.png)  
+*Figure 3: Electronics Diagram*  
 
 
 
